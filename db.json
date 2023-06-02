@@ -1,0 +1,156 @@
+ {
+    "product":[
+        {
+            "id": "1",
+            "product_name": "Dosa",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "10"
+          },
+          {
+            "id": "2",
+            "product_name": "Dosa",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "450"
+          },
+          {
+            "id": "3",
+            "product_name": "Idli",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "500"
+          },
+          {
+            "id": "4",
+            "product_name": "idli",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "70"
+          },
+          {
+            "id": "5",
+            "product_name": "Vada",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "80"
+          },
+          {
+            "id": "6",
+            "product_name": "Vada",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "20"
+          },
+          {
+            "id": "7",
+            "product_name": "Biriyani",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "40"
+          },
+          {
+            "id": "8",
+            "product_name": "Mutton Biriyani",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "50"
+          },
+          {
+            "id": "9",
+            "product_name": "Chicken Pakoda",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "80"
+          },
+          {
+            "id": "10",
+            "product_name": "Mutton biriyani",
+            "product_option": "cash",
+            "product_category": "fast food",
+            "tax_group": "percentage",
+            "price": "500"
+          }
+    ],
+    "customers":[
+        {
+            "id": "1",
+            "name": "abhimanyu",
+            "email": "abhi@gmail.com",
+            "phone": 1234567890,
+            "city": "Hyderabad",
+          },
+          {
+            "id": "2",
+           "name": "ayush",
+            "email": "ayush@gmail.com",
+            "phone": 1234567890,
+            "city": "Mumbai",
+          },
+          {
+            "id": "3",
+             "name": "john doe",
+            "email": "jdoe@gmail.com",
+            "phone": 1234567890,
+            "city": "Patna",
+          },
+          {
+            "id": "4",
+              "name": "Sagar",
+            "email": "sagar@gmail.com",
+            "phone": 1234567890,
+            "city": "Delhi",
+          },
+          {
+            "id": "5",
+            "name": "Shiva",
+            "email": "siva124@gmail.com",
+            "phone": 1234567890,
+            "city": "Chennai",
+          },
+          {
+            "id": "6",
+            "name": "Akshya",
+            "email": "akhgd@gmail.com",
+            "phone": 1234567890,
+            "city": "Pune",
+          },
+          {
+            "id": "7",
+            "name": "Saswat",
+            "email": "saswatfdaffa@gmail.com",
+            "phone": 1234567890,
+            "city": "Bengalore",
+          },
+          {
+            "id": "8",
+            "name": "S Babu",
+            "email": "sbabu@gmail.com",
+            "phone": 1234567890,
+            "city": "Chennai",
+          },
+          {
+            "id": "9",
+            "name": "P Verma",
+            "email": "pverma@gmail.com",
+            "phone": 1234567890,
+            "city": "Bhubaneswar",
+          },
+          {
+            "id": "10",
+             "name": "Ashok",
+            "email": "ashok000@gmail.com",
+            "phone": 1234567890,
+            "city": "Khordha",
+          }
+    ]
+ }
